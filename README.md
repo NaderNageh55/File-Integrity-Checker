@@ -110,14 +110,4 @@ log-integrity-monitor/
 
 ---
 
-## 🔒 Security Note
 
-> `baseline.json` contains the trusted hashes.  
-> Make sure it is stored securely and cannot be modified by an attacker,  
-> otherwise the integrity check loses its value.
-
----
-
-## 📜 License
-
-MIT License — free to use and modify.
